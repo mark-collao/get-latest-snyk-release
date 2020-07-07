@@ -1,0 +1,5 @@
+name: 'Get Snyk Release'
+description: 'Gets the latest Snyk CLI release'
+runs:
+    using: 'docker'
+    image: 'Dockerfile'

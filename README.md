@@ -1,2 +1,3 @@
 # get-latest-snyk-release
-Gets latest Snyk release
+
+Gets the latest GitHub Snyk release. Pretty straightforward.
